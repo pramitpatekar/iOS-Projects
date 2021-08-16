@@ -1,0 +1,55 @@
+
+
+/* Class = "UINavigationItem" title="BackCol" ObjectID = "BackColor-Nav-ID" */
+"BackColor-Nav-ID.title"  = "BackCol";
+
+/* Class = "UILabel" text="-- Back Color --" ObjectID = "RC-ID-10002" */
+"RC-ID-10002.text" = "-- Back Color --";
+
+/* Class = "UIButton" normalTitle="Green" ObjectID = "btnGreen" */
+"btnGreen.normalTitle" = "Green";
+
+/* Class = "UIButton" disabledTitle="Green" ObjectID = "btnGreen" */
+"btnGreen.disabledTitle" = "Green";
+
+/* Class = "UIButton" selectedTitle="Green" ObjectID = "btnGreen" */
+"btnGreen.selectedTitle" = "Green";
+
+/* Class = "UIButton" highlightedTitle="Green" ObjectID = "btnGreen" */
+"btnGreen.highlightedTitle" = "Green";
+
+/* Class = "UIButton" normalTitle="Blue" ObjectID = "btnBlue" */
+"btnBlue.normalTitle" = "Blue";
+
+/* Class = "UIButton" disabledTitle="Blue" ObjectID = "btnBlue" */
+"btnBlue.disabledTitle" = "Blue";
+
+/* Class = "UIButton" selectedTitle="Blue" ObjectID = "btnBlue" */
+"btnBlue.selectedTitle" = "Blue";
+
+/* Class = "UIButton" highlightedTitle="Blue" ObjectID = "btnBlue" */
+"btnBlue.highlightedTitle" = "Blue";
+
+/* Class = "UIButton" normalTitle="Gray" ObjectID = "btnGray" */
+"btnGray.normalTitle" = "Gray";
+
+/* Class = "UIButton" disabledTitle="Gray" ObjectID = "btnGray" */
+"btnGray.disabledTitle" = "Gray";
+
+/* Class = "UIButton" selectedTitle="Gray" ObjectID = "btnGray" */
+"btnGray.selectedTitle" = "Gray";
+
+/* Class = "UIButton" highlightedTitle="Gray" ObjectID = "btnGray" */
+"btnGray.highlightedTitle" = "Gray";
+
+/* Class = "UIButton" normalTitle="Red" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.normalTitle" = "Red";
+
+/* Class = "UIButton" disabledTitle="Red" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.disabledTitle" = "Red";
+
+/* Class = "UIButton" selectedTitle="Red" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.selectedTitle" = "Red";
+
+/* Class = "UIButton" highlightedTitle="Red" ObjectID = "RC-ID-10006" */
+"RC-ID-10006.highlightedTitle" = "Red";
