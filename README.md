@@ -6,4 +6,4 @@ Project to demo button click events
 
 ## Calculator
 Project to demo the calculator app
-[Calculator Screenshot](/ScreenShot/calculator - 01.png)
+<img src="/ScreenShot/calculator - 01.png" alt="Calculator Screenshot"/>
